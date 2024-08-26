@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "720165065785",
+    "project_id": "timao-conect",
+    "storage_bucket": "timao-conect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720165065785:android:3afb48bda12d747080e9e8",
+        "android_client_info": {
+          "package_name": "com.virmana.myteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720165065785-0o3r464q0ub2tjsveqvau2l3h3uj87a6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.virmana.myteam",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "720165065785-i3nggp2vp1h532q0o7p32jj3hkd3n86k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX7szQqHoevPKXj3xbU-A-_RQ_oZz2xUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720165065785-i3nggp2vp1h532q0o7p32jj3hkd3n86k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "720165065785-mg7pm66g30jhpu3iqmb2d6ap9eo0al2r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.fanconnect.timao"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720165065785:android:83e2d5ce9715d78080e9e8",
+        "android_client_info": {
+          "package_name": "br.com.fanconnect.timao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720165065785-kvch73amf32m7rq2je1i60fmfb9t06h1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.fanconnect.timao",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "720165065785-i3nggp2vp1h532q0o7p32jj3hkd3n86k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX7szQqHoevPKXj3xbU-A-_RQ_oZz2xUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720165065785-i3nggp2vp1h532q0o7p32jj3hkd3n86k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "720165065785-mg7pm66g30jhpu3iqmb2d6ap9eo0al2r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.fanconnect.timao"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
